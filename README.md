@@ -30,7 +30,7 @@ A Python script to bulk download all files from **Carbonio Files** (formerly Zex
 **1. Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/carbonio-files-downloader.git
+git clone https://github.com/Ranjithg123/carbonio-files-downloader.git
 cd carbonio-files-downloader
 ```
 
